@@ -1,0 +1,11 @@
+{
+  "name": "quickcart",
+  "version": "1.0.0",
+  "description": "buils e-commerce rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kavidu Keshan",
+  "license": "MIT"
+}
